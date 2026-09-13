@@ -1,4 +1,4 @@
-# Google Earth Engine (GEE) Spatial Analysis Projects
+=# Google Earth Engine (GEE) Spatial Analysis Projects
 
 This repository provides Google Earth Engine JavaScript scripts and resulting map products for Bangladesh and the Dhaka metropolitan area.
 
@@ -34,4 +34,3 @@ This repository provides Google Earth Engine JavaScript scripts and resulting ma
 * **Description:** Historical stable lights median composite clipped to the national boundary.
 
 
-(e.g., Fix image paths and reorder previews)
