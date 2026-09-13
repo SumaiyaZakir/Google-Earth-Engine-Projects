@@ -37,4 +37,5 @@ This repository provides Google Earth Engine JavaScript scripts and resulting ma
 * **Description:** Historical stable lights median composite clipped to the national boundary.
 
 ![Nightlight Map](maps/Nightlight.jpg)
+
 (e.g., Fix image paths and reorder previews)
