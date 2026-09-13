@@ -29,7 +29,7 @@ This repository provides Google Earth Engine JavaScript scripts and resulting ma
 ---
 
 ### 4. DMSP-OLS Nighttime Light Analysis
-![Nightlight Map](Maps/Nightlight%202022.jpg)
+![Nightlight Map](Maps/Nightlight.jpg)
 * **Script:** [`scripts/Nightlight.js`](scripts/Nightlight.js)
 * **Description:** Historical stable lights median composite clipped to the national boundary.
 
